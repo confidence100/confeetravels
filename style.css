@@ -1,0 +1,29 @@
+#top{
+    background-color: #40514e;
+    font-size: medium;
+    font-weight: lighter;
+
+
+}
+
+#middle{
+    background-color: #41644A;
+  }
+
+
+ body{
+    background-color: black;
+    font-weight: lighter;
+    font-size: medium;
+ }
+ .ed{
+    color: black;
+ }
+ h1{
+    font-family: 'Sacramento', cursive;
+ }
+
+ h2{
+
+    font-family: 'Merriweather', serif;
+ }
